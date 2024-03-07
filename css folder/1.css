@@ -449,9 +449,9 @@ border-radius: 6px;
 .category-sec1{
   display: flex;
   align-items: center;
-  
-  height:100vh;
-  
+  padding:50px 40px;
+  justify-content:center;
+  gap:20px;  
 }
 .category-sec1>.category-box1{
   width:380px;
